@@ -1,5 +1,5 @@
 ### Hi there 👋
-github-readme-stats.vercel.app/api?username={yeonhooy}&show_icons=true
+
 
 <!--
 **yeonhooy/yeonhooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
